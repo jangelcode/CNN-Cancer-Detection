@@ -1,4 +1,4 @@
-# CNN-Cancer-Detection
+# Histopathological Cancer Detection with CNNs
 
 This github repository holds my jupyter notebook for the deep learning Kaggle project:
 
